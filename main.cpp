@@ -10,5 +10,4 @@ int main()
 {
   std::string line = "hello world";
   std::cout << line << std::endl;
-  boostr_ip();
 }
