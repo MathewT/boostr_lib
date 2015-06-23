@@ -13,7 +13,6 @@ C++ library to expose Boost functions into a ruby gem.  This is a proof of conce
 - Upgrading gcc-4.8 to 4.9 on Ubuntu
 - Notes on how to upgrade Ubuntu to [gcc-4.9](http://askubuntu.com/questions/466651/how-do-i-use-the-latest-gcc-4-9-on-ubuntu-14-04)
 
-## Technical Notes
 ### Building Boost
 `./bootstrap.sh   --prefix=/home/mthomas/boost`
 
