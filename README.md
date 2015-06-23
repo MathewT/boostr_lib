@@ -5,6 +5,8 @@ C++ library to expose Boost functions into a ruby gem.  This is a proof of conce
 
 ## Notes
 
+- Ruby Native Extenstions in C/C++
+- Extensions with FFI
 - Intro to Boost C++ Libraries
 - Boost C++ libraries *must* be compiled with gcc-4.9
 - boost_lib *must* be compiled and linked with gcc-4.9
