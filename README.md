@@ -18,4 +18,4 @@ C++ library to expose Boost functions into a ruby gem.  This is a proof of conce
 
 `./b2  install --toolset=gcc  --link=static  threading=multi`
 
-`cp $HOME/boost/* /usr/lib/boost_1_58_0/`
+`cp $HOME/boost/*1.58* /usr/lib/boost_1_58_0/`
