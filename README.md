@@ -15,5 +15,6 @@ C++ library to expose Boost functions into a ruby gem.  This is a proof of conce
 
 ### Building Boost
 `./bootstrap.sh   --prefix=/home/mthomas/boost`
+
 `./b2  install --toolset=gcc  --link=static  threading=multi`
 
